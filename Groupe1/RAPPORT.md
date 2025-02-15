@@ -96,7 +96,11 @@ Nous avons suivi plusieurs étapes pour générer, injecter et executer un shell
 
 ### **👤 Membre 4 (Haseebullah)**
 
-> *
+> À travers des exercices pratiques, j'ai appris à injecter du code malveillant en C# via des shellcodes sur une machine tournant sous Windows. J'ai exploré diverses méthodes, telles que l'injection via DLL, qui m'a permis d'injecter du code malveillant dans un processus en cours d'exécution sur un OS Windows.
+
+> J'ai également étudié la méthode du remote thread, où un nouveau thread est créé dans un processus cible pour y injecter du code malveillant. De plus, j'ai expérimenté le process hollowing, une technique plus sophistiquée où un processus existant est creusé (hollowed out) et remplacé par un code malveillant.
+
+> J'ai également acquis des techniques pour rendre ce code illisible par les antivirus, telles que l'obfuscation, l'encryption.
 
 
 ### **👤 Membre 5 (Nassim)**
