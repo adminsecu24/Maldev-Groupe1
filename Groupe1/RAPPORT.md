@@ -85,7 +85,9 @@ Nous avons suivi plusieurs étapes pour générer, injecter et executer un shell
 
 ### **👤 Membre 2 (Badr)**
 
-> *
+> Ce projet m’a permis d’approfondir ma compréhension des techniques de création et d’exécution furtive de malware en mémoire. Bien que je n’aie pas directement développé le chargeur, j’ai travaillé pour assimiler les différentes méthodes utilisées, notamment l’injection de shellcode et les stratégies d’évasion des antivirus et EDR.
+
+> Cette expérience m’a apporté une meilleure vision des défis liés à la sécurité offensive et m’a aidé à renforcer mes compétences en analyse et en contournement des défenses. Elle m’a également sensibilisé aux mécanismes de protection existants et aux contre-mesures à mettre en place pour sécuriser les systèmes.
 
 ### **👤 Membre 3 (Cedric)**
 
