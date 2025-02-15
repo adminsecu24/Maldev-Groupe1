@@ -81,7 +81,8 @@ Nous avons suivi plusieurs étapes pour générer, injecter et executer un shell
 
 ### **👤 Membre 1 (Abderrachid)**
 
-> *
+> * Pour ma part, ce labo était un vrai bonheur 🤗
+> * J’ai toujours été intéressé par l’idée de **comprendre concrètement comment exploiter une vulnérabilité en codant moi-même un programme pour une machine Windows**, afin de saisir vraiment comment tout ça fonctionne. Parce que, quand on utilise des outils comme Metasploit, il fait plein de choses sous le capot sans qu’on sache vraiment… Dans ce cas, on se rapproche plus d’un “script kiddie” que d’un vrai professionnel !
 
 ### **👤 Membre 2 (Badr)**
 
